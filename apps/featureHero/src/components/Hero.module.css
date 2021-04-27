@@ -1,0 +1,11 @@
+/* Using h1. and h2. to increase specificity */
+h1.textWhite,
+h2.textWhite {
+  color: #fff;
+}
+
+a.ctaButton {
+  background-color: #fff;
+  border: none;
+  margin-top: 1rem;
+}
